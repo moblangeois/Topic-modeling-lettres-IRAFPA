@@ -3,7 +3,7 @@ Ce projet vise à analyser une collection de lettres académiques, extraire des 
 
 ## Comment ça marche ?
 
-Le code principal pour l'analyse et le clustering se trouve dans le notebook `Jupyter Topic modeling.ipynb`. Le notebook contient toutes les étapes nécessaires, y compris l'extraction des lettres, le nettoyage et la préparation des données, l'analyse NLP, le clustering et le topic modeling à l'aide de BERTopic.
+Le code principal pour l'analyse et le clustering se trouve dans le notebook `Topic modeling.ipynb`. Le notebook contient toutes les étapes nécessaires, y compris l'extraction des lettres, le nettoyage et la préparation des données, l'analyse NLP, le clustering et le topic modeling à l'aide de BERTopic.
 
 Les graphiques et visualisations résultants sont générés dans le dossier output. Deux fichiers HTML sont créés :
 
