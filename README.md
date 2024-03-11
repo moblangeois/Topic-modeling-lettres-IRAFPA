@@ -1,4 +1,4 @@
-# Analyse de Textes avec NLP et Clustering sur les liettres de l'IRAFPA
+# Analyse de Textes avec NLP et Clustering sur les lettres de l'IRAFPA
 Ce projet vise à analyser une collection de lettres académiques, extraire des insights pertinents grâce à des techniques de traitement du langage naturel (NLP) et de clustering, et identifier des thèmes récurrents au fil du temps.
 
 ## Comment ça marche ?
