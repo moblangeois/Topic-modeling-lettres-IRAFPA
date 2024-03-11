@@ -1,6 +1,15 @@
 # Analyse de Textes avec NLP et Clustering
 Ce projet vise à analyser une collection de lettres académiques, extraire des insights pertinents grâce à des techniques de traitement du langage naturel (NLP) et de clustering, et identifier des thèmes récurrents au fil du temps.
 
+## Comment ça marche ?
+
+Le code principal pour l'analyse et le clustering se trouve dans le notebook `Jupyter Topic modeling.ipynb`. Le notebook contient toutes les étapes nécessaires, y compris l'extraction des lettres, le nettoyage et la préparation des données, l'analyse NLP, le clustering et le topic modeling à l'aide de BERTopic.
+
+Les graphiques et visualisations résultants sont générés dans le dossier output. Deux fichiers HTML sont créés :
+
+- `visualize_documents_all.html` : Visualisation de tous les documents et clusters
+- `visualize_topics_over_time.html` : Visualisation des topics et clusters au fil du temps
+
 ## Dépendances
 Le projet utilise plusieurs bibliothèques Python importantes pour le traitement des données, le NLP, le clustering, et la visualisation, dont :
 
@@ -34,6 +43,3 @@ Le projet utilise BERTopic pour le topic modeling, en appliquant différentes te
 - PartOfSpeech et OpenAI GPT-3.5 Turbo pour des représentations améliorées
 
 Les topics identifiés sont ensuite visualisés et analysés pour comprendre les thèmes principaux et leur évolution dans le temps.
-Deux fichiers HTML sont générés pour visualiser les topics et les clusters.
-- visualize_documents_all.html : Visualisation de tous les documents et clusters
-- visualize_topics_over_time.html : Visualisation des topics et clusters au fil du temps
