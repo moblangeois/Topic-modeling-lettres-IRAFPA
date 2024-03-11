@@ -8,7 +8,13 @@ Le code principal pour l'analyse et le clustering se trouve dans le notebook `To
 Les graphiques et visualisations résultants sont générés dans le dossier output. Deux fichiers HTML sont créés :
 
 - `visualize_documents_all.html` : Visualisation de tous les documents et clusters
+
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-lettres-IRAFPA/blob/main/output/visualize_documents_all.html
+
 - `visualize_topics_over_time.html` : Visualisation des topics et clusters au fil du temps
+
+https://html-preview.github.io/?url=https://github.com/moblangeois/Topic-modeling-lettres-IRAFPA/blob/main/output/visualize_topics_over_time.html
+
 
 ## Dépendances
 Le projet utilise plusieurs bibliothèques Python importantes pour le traitement des données, le NLP, le clustering, et la visualisation, dont :
